@@ -1,0 +1,24 @@
+{
+  "counter": [
+    {
+      "id": "c1",
+      "job": "Projekty",
+      "done": 85
+    },
+    {
+      "id": "c2",
+      "job": "Pracownicy",
+      "done": 1
+    },
+    {
+      "id": "c3",
+      "job": "Klienci",
+      "done": 20
+    },
+    {
+      "id": "c4",
+      "job": "Rozwiązania",
+      "done": 25
+    }
+  ]
+}

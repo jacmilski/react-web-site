@@ -1,0 +1,56 @@
+{
+  "banner": [
+    {
+      "id": "b1",
+      "img": "/assets/img/slider/Software.webp",
+      "heading": "Programowanie | Automatyzacje | Sztuczna inteligencja | Grafika",
+      "motive": {
+        "m1": "Nasze usługi",
+        "m2": "NovaTech Laboratory"
+      },
+      "title": {
+        "t1": "Tworzę od podstaw rozwiązania programistyczne dostosowane do potrzeb klienta.",
+        "t2": "Utrzymuję i rozwijam instniejące systemy informatyczne."
+      }
+    },
+    {
+      "id": "b2",
+      "img": "/assets/img/slider/Graphic.webp",
+      "heading": "Grafika | Programowanie | Automatyzacje | Sztuczna inteligencja",
+      "motive": {
+        "m1": "Nasze usługi",
+        "m2": "NovaTech Laboratory"
+      },
+      "title": {
+        "t1": "Wykonuje grafiki na potrzeby firm, instytucji oraz osób prywatnych.",
+        "t2": "W swoim porfolio mam interaktywne wizytówki, ulotki, loga i wiele więcej"
+      }
+    },
+    {
+      "id": "b3",
+      "img": "/assets/img/slider/A.I.webp",
+      "heading": "Sztuczna inteligencja | Grafika | Programowanie | Automatyzacje",
+      "motive": {
+        "m1": "Nasze usługi",
+        "m2": "NovaTech Laboratory"
+      },
+      "title": {
+        "t1": "W swoich projektach wykorzystuje najnowsze rozwiązania oparte o sztuczną inteligencję.",
+        "t2": "Proponuję rozwiązania oparte o uczenie maszynowe oraz przetwarzanie języka naturalnego."
+      }
+    },  
+    {
+      "id": "b4",
+      "img": "/assets/img/slider/Automation.webp",
+      "heading": "Automatyzacje | Sztuczna inteligencja | Grafika | Programowanie",
+      "motive": {
+        "m1": "Nasze usługi",
+        "m2": "NovaTech Laboratory"
+      },
+      "title": {
+        "t1": "Korzystając z narzędzi No Code i Low Code tworzę rozwiązania automatyzujące procesy biznesowe.",
+        "t2": "Sprawdź najnowsze rozwiązania automatyzujące procesy biznesowe"
+      }
+    }
+  ]
+}

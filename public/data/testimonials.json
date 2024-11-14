@@ -1,0 +1,57 @@
+{
+  "testimonials": [
+    {
+      "id": "t1",
+      "img": "/assets/img/testimonial/evita.png",
+      "comment": "Przebudowa logki sprzedażowej sklepu poprawa skuteczności witryny",
+      "name": "Evita",
+      "rank": "Sklep z luksusową odzieżą",
+      "link": "https://evita7.pl/"
+    },
+    {
+      "id": "t2",
+      "img": "/assets/img/testimonial/frodo.png",
+      "comment": "Automatyzacja odpowiedzi na emaile oraz tworzenia kontentu z użcyiem AI",
+      "name": "Frodo",
+      "rank": "Automatyzacja procesów w firmie",
+      "link": "https://frodo.biz/"
+    },
+    {
+      "id": "t3",
+      "img": "/assets/img/testimonial/wawel.png",
+      "comment": "Nowoczesna angielsko języczna strona internetowa dla klientów z Azji",
+      "name": "Wawel",
+      "rank": "Strona biura podróży",
+      "link": "https://waweldragontours.eu/"
+    },
+    {
+      "id": "t4",
+      "img": "/assets/img/testimonial/mobi.png",
+      "comment": "Utrzymanie i rozwój aplikacji mobilnej dla firm z GPS i czytnikiem QR",
+      "name": "Mobi",
+      "rank": "Aplikacja mobilna dla firm",
+      "link": "https://mobipest.eu/"
+    },
+    {
+      "id": "t5",
+      "img": "/assets/img/testimonial/5.jpg",
+      "comment": "There are some reason lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, officia eligendi quos best choice similique autem laborum repellendus aliquam, support all molestiae tempora quod esse sed. amazing service. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, quo modi architecto nobis dignissimos sed.",
+      "name": "Ryans Gigs",
+      "rank": "CEO-Linking Park"
+    },
+    {
+      "id": "t6",
+      "img": "/assets/img/testimonial/6.jpg",
+      "comment": "There are some reason lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, officia eligendi quos best choice similique autem laborum repellendus aliquam, support all molestiae tempora quod esse sed. amazing service. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, quo modi architecto nobis dignissimos sed.",
+      "name": "Pual Scholes",
+      "rank": "CEO & Founder-Capricorn"
+    },
+    {
+      "id": "t7",
+      "img": "/assets/img/testimonial/7.jpg",
+      "comment": "There are some reason lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, officia eligendi quos best choice similique autem laborum repellendus aliquam, support all molestiae tempora quod esse sed. amazing service. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, quo modi architecto nobis dignissimos sed.",
+      "name": "Eric Cantona",
+      "rank": "Manager-Beackon"
+    }
+  ]
+}

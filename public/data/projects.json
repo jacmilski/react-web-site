@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": "p1",
+      "title": "Kurs: Mistrz sztucznej inteligencji",
+      "link": "https://eduj.pl/produkt/mistrz_sztucznej_inteligencji?ref=W81rjU0kaBq2ldlV"
+    },
+    {
+      "id": "p2",
+      "title": "Kurs: Tworzenie grafiki A.I.",
+      "link": "https://eduj.pl/produkt/tworzenie_grafiki_z_uzyciem_sztucznej_inteligencji?ref=W81rjU0kaBq2ldlV"
+    },
+    {
+      "id": "p3",
+      "title": "Kurs: Tworzenie aplikacji z React",
+      "link": "https://eduj.pl/produkt/kurs_react_tworz_nowoczesne_aplikacje_z_react?ref=W81rjU0kaBq2ldlV"
+    },
+    {
+      "id": "p4",
+      "title": "Kurs: Tworzenie wideo z A.I.",
+      "link": "https://eduj.pl/produkt/tworzenie_video_oraz_animacji_z_uzyciem_sztucznej_inteligencji?ref=W81rjU0kaBq2ldlV"
+    },
+    {
+      "id": "p5",
+      "title": "Welding Processing"
+    },
+    {
+      "id": "p6",
+      "title": "Bridge Construction"
+    },
+    {
+      "id": "p7",
+      "title": "Oil & Gas Productions"
+    },
+    {
+      "id": "p8",
+      "title": "Civil Engineering"
+    }
+  ]
+}

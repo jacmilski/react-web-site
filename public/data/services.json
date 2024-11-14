@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "id": "s1",
+      "img": "/assets/img/service/1.jpg",
+      "icon": "flaticon-oil-industry",
+      "heading": "Strony i sklepy internetowe",
+      "title": "Realizacje dla klubu sportowego, sklepu z odzieżą, biura turystycznego"
+    },
+    {
+      "id": "s2",
+      "img": "/assets/img/service/2.jpg",
+      "icon": "flaticon-lab-tool",
+      "heading": "Development aplikacji web i mobile",
+      "title": "Development aplikacji monitorującej pracę techników"
+    },
+    {
+      "id": "s3",
+      "img": "/assets/img/service/3.jpg",
+      "icon": "flaticon-eco-factory",
+      "heading": "Automatyzacje z użyciem A.I.",
+      "title": "Wdrażanie serwisów obsługujących email i S.E.O."
+    },
+    {
+      "id": "s4",
+      "img": "/assets/img/service/4.jpg",
+      "icon": "flaticon-production",
+      "heading": "Grafika komputerowa i identyfikacja wizualna",
+      "title": "Dowolne projekty graficzne, od logo po identyfikacje wizualną"
+    },
+    {
+      "id": "s5",
+      "img": "/assets/img/service/5.jpg",
+      "icon": "flaticon-crane",
+      "heading": "Civil Engineering",
+      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+    },
+    {
+      "id": "s6",
+      "img": "/assets/img/service/6.jpg",
+      "icon": "flaticon-drilling-machine",
+      "heading": "Mechanical Engineering",
+      "title": "There are some reason build erit a augue insuned image pellen simply freede in the site lorem ipsum dolor"
+    }
+  ]
+}
